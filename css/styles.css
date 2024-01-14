@@ -248,7 +248,10 @@ img {
   background-color: #f4f4fd;
   margin-bottom: 8px;
 }
-
+.feature-icons {
+  width: 64px;
+  height: 64px;
+}
 .features-item {
   width: calc((100% - 72px) / 4);
 }
