@@ -447,7 +447,6 @@ img {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  padding: 0 16px;
 }
 .footer {
   background: var(--NAVY-BLUE, #2e2f42);
