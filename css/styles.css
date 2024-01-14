@@ -461,11 +461,14 @@ img {
   height: 312px;
 }
 .footer-container {
+  margin-right: 120px;
   display: flex;
   align-items: baseline;
-  margin-right: 120px;
 }
 .container {
+}
+.footer-container-web {
+  margin-right: 120px;
 }
 .footer-logo {
   color: var(--IRIS, #4d5ae5);
@@ -522,7 +525,7 @@ img {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 120px;
+
   background-color: #4d5ae5;
   border-radius: 50%;
   width: 100%;
