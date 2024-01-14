@@ -348,6 +348,7 @@ img {
 .icons-link {
   width: 40px;
   height: 40px;
+  fill: #f4f4fd;
 }
 .icons-team {
   display: flex;
@@ -363,9 +364,7 @@ img {
 .icons-team:focus {
   background-color: #404bbf;
 }
-.icons-link:hover {
-  fill: #f4f4fd;
-}
+
 .portfolio {
   background: #fff;
   padding-top: 120px;
